@@ -1,4 +1,5 @@
-# Master-Thesis "Classification of Stars, Galaxies and Quasars Based on Machine Learning Algorithms."  
+# Master-Thesis 
+## "Classification of Stars, Galaxies and Quasars Based on Machine Learning Algorithms."  
 
 # Purpose of the project
 This master’s thesis focuses on technical parts, aspects of implementing data analysis and usage of machine learning algorithms to classify three groups of objects measured by astronomers. Alongside with Machine Learning algorithms implementation for specific described problem, analysis and comparison of the performance for each of the method is presented.  
