@@ -26,7 +26,7 @@ All code used to produce results is stored in MasterThesis.ipynb.
 ## SHAP values per algorithm (model decision explanation based on game theory) 
 <img src="https://github.com/amasend/Master-Thesis/blob/master/Figures/Figure%2075.%20Summarize%20the%20Impact%20of%20All%20Features%20Over%20the%20Entire%20Dataset%20Part%201..png?raw=true"/>  
 
-## XGBoos  
+## XGBoost  
 5-fold cross validation results per different training dataset size  
 <p align="center">
 <img src="https://github.com/amasend/Master-Thesis/blob/master/Tables/Table%2022.%205-fold%20Cross-Validation%20XGB%20Metrics%20After%20Grid%20Search..PNG?raw=truee"/>  
