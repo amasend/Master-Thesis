@@ -12,4 +12,26 @@ After preparation the initial machine learning algorithms test takes place. More
 There are also further thoughts on how this dissertation could be expanded on another similar real classification problem.
 
 # Materials  
-All code used to produce results is stored in MasterThesis.ipynb.
+All code used to produce results is stored in MasterThesis.ipynb.  
+
+# Example results  
+## Deep Neural Network Hyperparameter tuning  
+<img src="https://github.com/amasend/Master-Thesis/blob/master/Figures/Figure%2064.%20Deep%20Neural%20Network%20Training%20Validation%20Accuracy%20Scores%20for%20Different%20Parameters..png?raw=true"/>  
+
+## ML Algorithms performance metrics in relation to training dataset size  
+<p align="center">
+<img src="https://github.com/amasend/Master-Thesis/blob/master/Figures/Figure%2070.%20Learning%20Curves%20for%20Each%20ML%20Algorithm%20Part%201..png?raw=true"/>  
+</p>
+
+## SHAP values per algorithm (model decision explanation based on game theory) 
+<img src="https://github.com/amasend/Master-Thesis/blob/master/Figures/Figure%2075.%20Summarize%20the%20Impact%20of%20All%20Features%20Over%20the%20Entire%20Dataset%20Part%201..png?raw=true"/>  
+
+## XGBoos  
+5-fold cross validation results per different training dataset size  
+<p align="center">
+<img src="https://github.com/amasend/Master-Thesis/blob/master/Tables/Table%2022.%205-fold%20Cross-Validation%20XGB%20Metrics%20After%20Grid%20Search..PNG?raw=truee"/>  
+</p>
+Classification report  
+<p align="center">
+<img src="https://github.com/amasend/Master-Thesis/blob/master/Tables/Table%2023.%20XGB%20Classification%20Report..PNG?raw=true"/>  
+</p>
